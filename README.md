@@ -1,16 +1,45 @@
-## Hi there 👋
+# Walter Benítez
 
-<!--
-**WalterABenitez/WalterABenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Analista de Sistemas  
+💻 Desarrollador Web en formación  
+📍 Pergamino, Provicia de Buenos Aires, Argentina
 
-Here are some ideas to get you started:
+Soy Analista de Sistemas con interés en el desarrollo de software y la construcción de soluciones web.  
+Me enfoco en el aprendizaje continuo, la mejora constante y el desarrollo de proyectos que me permitan consolidar mis habilidades técnicas en entornos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy ampliando mis conocimientos en desarrollo web y herramientas utilizadas en el ámbito profesional del desarrollo de software.
+
+---
+
+## 🌐 Portfolio
+
+Puedes ver mis proyectos y trabajos aquí:
+
+👉 https://walterabenitez.github.io/
+
+---
+
+## 🛠 Tecnologías y herramientas
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- PostgreSQL (básico)
+
+---
+
+## 📚 Repositorios de aprendizaje
+
+En este perfil encontrarás repositorios donde practico y desarrollo conocimientos adquiridos durante mi formación:
+
+- Curso de Programación Web
+- Curso de Python para Análisis de Datos
+- Proyectos personales de práctica
+
+---
+
+## 🚀 Objetivo profesional
+
+Mi objetivo es integrarme a un equipo de desarrollo donde pueda aportar compromiso, responsabilidad y capacidad de aprendizaje, mientras continúo fortaleciendo mis habilidades técnicas y adquiriendo experiencia profesional en el sector IT.
