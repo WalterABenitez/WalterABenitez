@@ -1,7 +1,7 @@
 # Walter Benítez
 
 🎓 Analista de Sistemas  
-💻 Desarrollador Web en formación  
+💻 Junior Fullstack Developer | React | Node.js | Supabase | Building real-world apps with authentication & APIs 
 📍 Pergamino, Provicia de Buenos Aires, Argentina
 
 Soy Analista de Sistemas con interés en el desarrollo de software y la construcción de soluciones web.  
